@@ -1,0 +1,22 @@
+# ninja log v5
+10	881	1685949304101405647	CMakeFiles/Antares_land_system.dir/src/Components/Button.cpp.o	843f7cde9b815f3f
+1057	1368	1685950228614125295	Antares_land_system	12528829662b1234
+1	10	1685950227262195254	Antares_land_system_autogen/timestamp	3360b0547d636acc
+18	46	1685728526092843101	CMakeFiles/Antares_land_system.dir/src/Layaout/Header.cpp.o	292f0ce937fcecea
+15	28	1685340089900443572	CMakeFiles/Antares_land_system.dir/Antares_land_system_autogen/mocs_compilation.cpp.o	4255961577c91d89
+1	10	1685950227262195254	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+10	1057	1685950228306141237	CMakeFiles/Antares_land_system.dir/main.cpp.o	61adb7ef091f7b3
+1	10	1685950227262195254	Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+1	10	1685950227262195254	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/timestamp	3360b0547d636acc
+1	6	1685950235709757312	Antares_land_system_autogen/timestamp	3360b0547d636acc
+1	6	1685950235709757312	Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+1	6	1685950235709757312	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/timestamp	3360b0547d636acc
+1	6	1685950235709757312	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+7	1043	1685950236741703683	CMakeFiles/Antares_land_system.dir/main.cpp.o	61adb7ef091f7b3
+1043	1385	1685950237081686010	Antares_land_system	12528829662b1234
+1	8	1685950304090145199	Antares_land_system_autogen/timestamp	3360b0547d636acc
+1	8	1685950304090145199	Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+1	8	1685950304090145199	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/timestamp	3360b0547d636acc
+1	8	1685950304090145199	/home/fernu/Escritorio/IPN_IA/Antares_land_system/cmake-build-debug/Antares_land_system_autogen/mocs_compilation.cpp	3360b0547d636acc
+8	1007	1685950305086091751	CMakeFiles/Antares_land_system.dir/main.cpp.o	61adb7ef091f7b3
+1007	1321	1685950305398075001	Antares_land_system	12528829662b1234
